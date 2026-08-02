@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="public/medispace_banner.png" alt="MediSpace AI Banner" width="100%">
+ <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/27d2ba78-7e6a-41c8-9ec9-834515e48ad5" />
+
   
   # MediSpace AI
   
