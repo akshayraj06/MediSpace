@@ -1,16 +1,57 @@
-# MediSpace
+<div align="center">
+  <img src="public/medispace_banner.png" alt="MediSpace AI Banner" width="100%">
+  
+  # MediSpace AI
+  
+  **Your Intelligent Healthcare Companion**
+  
+  [React](https://reactjs.org/) • [Vite](https://vitejs.dev/) • [Tailwind CSS](https://tailwindcss.com/) • [Framer Motion](https://www.framer.com/motion/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+</div>
 
-Currently, two official plugins are available:
+<br/>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌟 About MediSpace AI
 
-## React Compiler
+MediSpace AI is a modern, high-performance healthcare platform designed to bridge the gap between patients, medical data, and healthcare providers. With an intuitive glassmorphism interface, users can manage their health records, convert physical reports using OCR, and effortlessly locate nearby medical specialists.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+<div align="center">
+  <img src="public/medispace_preview.png" alt="MediSpace Dashboard Preview" width="80%">
+</div>
 
-## Expanding the Oxlint configuration
+## ✨ Key Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+- **🩺 Health Vault**: Securely store and manage your medical records in one digital ecosystem.
+- **📄 AI-Powered OCR Simulator**: Extract text and insights directly from uploaded physical lab reports and prescriptions.
+- **🏥 Nearby Hospitals & Doctors**: Contextually intelligent search for nearby specialists using interactive maps powered by Leaflet.
+- **🎨 Modern Glassmorphism UI**: A beautifully crafted dashboard with sleek Framer Motion animations and Tailwind gradients.
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React 19, Vite, Tailwind CSS v4
+- **Animations**: Framer Motion, Canvas Confetti
+- **Maps**: React Leaflet & Google Maps JS API
+- **Utilities**: Tesseract.js (for OCR), Lucide-react (icons)
+
+## 🚀 Getting Started
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/akshayraj06/MediSpace.git
+   cd MediSpace
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Run the development server**
+   ```bash
+   npm run dev
+   ```
+   Open `http://localhost:5173` in your browser.
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check out the [issues page](https://github.com/akshayraj06/MediSpace/issues).
